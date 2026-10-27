@@ -53,22 +53,12 @@ O projeto adota uma **Arquitetura Cliente-Servidor em 3 Camadas**, comunicando u
 
 ---
 
-## 🗂️ 5. Estrutura do Repositório
-
-* 📁 `/docs` — Diagrama de Classes (Astah), Diagrama Entidade-Relacionamento (MySQL Workbench), Protótipos de Tela, Product Backlog e Project Model Canvas (PMC).
-* 📁 `/database` — Scripts DDL (`CREATE TABLE`) do banco de dados relacional MySQL (`inkfy_db`).
-* 📁 `/backend` — Código-fonte da Web API em C# ASP.NET Core.
-* 📁 `/frontend` — Código-fonte da aplicação SPA em Angular.
-
----
-
-## 👥 6. Integrantes da Equipe
+## 👥 5. Integrantes da Equipe
 
 | Nome Completo | Papel no Projeto | GitHub |
 | :--- | :--- | :--- |
-| **Alex Silva** | Desenvolvedor Full-Stack (Angular / C# .NET) & Arquitetura de Dados | [@AlexPVCCSilva](https://github.com/AlexPVCCSilva) |
-| **[Nome do Integrante 2]** | [Papel — ex.: UI/UX Designer & Frontend Developer] | [@usuario2](https://github.com/) |
-| **[Nome do Integrante 3]** | [Papel — ex.: Engenharia de Software, QA & Documentação] | [@usuario3](https://github.com/) |
+| **Alex Silva** | Desenvolvedor  | [@AlexPVCCSilva](https://github.com/AlexPVCCSilva) |
+| **Bernardo Medeiros** | [@Bermedmen](https://github.com/bermedmen) |
 
 ---
 *Projeto acadêmico desenvolvido no curso de Bacharelado em Sistemas de Informação.*
